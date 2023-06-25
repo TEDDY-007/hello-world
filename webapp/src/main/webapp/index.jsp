@@ -1,6 +1,6 @@
 <!-- form container -->
 <div class="container">
-  <h1 class="main-heading">Survey Form:</h1>
+  <h1 class="main-heading">Sample Survey Form:</h1>
   <hr>
   <!-- form start -->
   <form class="form-class">
@@ -9,7 +9,7 @@
     <div class="form-control">
 
       <div class="heading-field">
-        <h3 class="field-head">Customer Name </h3>
+        <h3 class="field-head">Enter Customer Name </h3>
       </div>
       <div class="field-inputs">
         <div class="input-div">
