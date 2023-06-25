@@ -14,11 +14,11 @@
       <div class="field-inputs">
         <div class="input-div">
           <input type="text" class="form-control-input" id="first-name" name="first name" required>
-          <div id="first-name-help" class="help-text">Enter Your First Name</div>
+          <div id="first-name-help" class="help-text">Please Enter Your First Name</div>
         </div>
         <div class="input-div">
           <input type="text" class="form-control-input" id="last-name" name="last name" required>
-          <div id="last-name-help" class="help-text">Enter last First Name</div>
+          <div id="last-name-help" class="help-text">Please Enter last Name</div>
         </div>
       </div>
     </div>
