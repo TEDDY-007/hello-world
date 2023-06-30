@@ -214,7 +214,7 @@
       <div class="work">
         <i class="fas fa-atom"></i>
         <p class="work-heading">Projects</p>
-        <p class="work-text">I have worked on many projects and I am very proud of them. I am a very good developer and I am always looking for new projects.</p>
+        <p class="work-text">I have worked on many projects and I am very proud of them. I am a very good developer and I am always looking for new projects. Ou..yeah.!!</p>
       </div>
       <div class="work">
         <i class="fas fa-skiing"></i>
